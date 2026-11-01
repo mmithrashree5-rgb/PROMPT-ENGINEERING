@@ -85,9 +85,9 @@ Explain the impact of scaling in Large Language Models (LLMs). Describe model pa
 Explain what Large Language Models (LLMs) are, how they work and how they are developed. Describe data collection, preprocessing, tokenization, Transformer architecture, pre-training, fine-tuning, evaluation and deployment. Include a simple labeled development flowchart, real-world examples, applications, advantages and limitations. Use clear headings and beginner-friendly language.
 
 # Output
-Foundational Concepts of Generative AI
+**1.Foundational Concepts of Generative AI**********
 
-CHATGPT:
+**CHATGPT:**
 
 **1. Introduction**
  
@@ -236,7 +236,7 @@ Resource Intensity: Training and running large models demand massive amounts of 
 
 Copyright & Ownership: Legal gray areas persist concerning the intellectual property rights of training data versus AI-generated outputs.
 
-**2. Generative AI Architectures**
+******2. Generative AI Architectures*****
 
 **CHATGPT**
 
@@ -368,7 +368,7 @@ Diffusion Models: Learn to generate content by reversing a gradual noise-removal
 <img width="780" height="402" alt="image" src="https://github.com/user-attachments/assets/9b4ccef4-e4ff-4514-913e-86298c49b93a" />
 
 
-**3. Generative AI Applications**
+****3. Generative AI Applications****
 
 **CHATGPT**
 
@@ -432,7 +432,7 @@ Generative AI is a type of Artificial Intelligence that creates new content such
   
 Generative AI is transforming many fields by creating text, images, audio, videos and code. It improves productivity, creativity and innovation. However, it must be used responsibly with proper human supervision.
 
-**GEMINI:**
+****GEMINI:****
 
 Generative AI has evolved from an experimental machine-learning discipline into a foundational technology spanning almost every sector of modern society. Below is a comprehensive breakdown of its primary domain applications, modality mechanisms, benefits, ethical implications, and future directions.
 
