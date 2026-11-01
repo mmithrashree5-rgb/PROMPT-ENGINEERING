@@ -148,6 +148,7 @@ Engineering Applications:
 Generative AI is an important technology that creates new content using learned patterns from existing data. It is widely used in education, healthcare, business, software development and engineering. Although it offers many advantages, its output should be verified by humans to ensure accuracy and reliability.
 
 **GEMINI:**
+
 **1. What is Generative AI?**
 
 Generative AI (GenAI) is a branch of artificial intelligence that focuses on creating brand-new content—such as text, images, music, code, and videos—rather than simply analyzing or classifying existing data. While traditional AI can tell you what is inside a photo or predict tomorrow’s weather, Generative AI can paint an original picture, write an essay, or compose a symphony based on a user’s prompt.
@@ -222,5 +223,159 @@ Resource Intensity: Training and running large models demand massive amounts of 
 
 Copyright & Ownership: Legal gray areas persist concerning the intellectual property rights of training data versus AI-generated outputs.
 
+**2. Generative AI Architectures**
+
+**CHATGPT**
+
+**1. Introduction**
+   
+Generative AI uses different architectures to create new content such as text, images, audio and videos. The four major architectures are Transformers, GANs, VAEs and Diffusion Models.
+
+**2. Major Generative AI Architectures**
+
+**A. Transformers**
+
+Transformers are deep learning models mainly used for text generation and language processing.
+
+**Working Principle:**
+
+- Input text is divided into small units called tokens.
+- Tokens are converted into numerical values called embeddings.
+- Positional encoding identifies the position of each token.
+- Self-attention understands relationships between words.
+- The decoder generates the output.
+  
+**Important Components:**
+  
+1. Tokens – Small units of text.
+2. Embeddings – Numerical representation of tokens.
+3. Positional Encoding – Identifies word positions.
+4. Self-Attention – Understands word relationships.
+5. Encoder – Processes input data.
+6. Decoder – Generates output.
+**Transformer Architecture Diagram:**
+
+<img width="745" height="467" alt="image" src="https://github.com/user-attachments/assets/5474c8b6-f6b0-4462-a601-a44563d0620a" />
+
+**Examples**: ChatGPT, Google Translate and text-generation tools.
+
+**B. Generative Adversarial Networks (GANs)**
+
+GANs use two neural networks to generate realistic images.
+- Generator: Creates fake images.
+- Discriminator: Identifies whether images are real or fake.
+Both networks compete and improve during training.
+
+**Examples:** AI-generated faces and image enhancement.
+
+<img width="730" height="465" alt="image" src="https://github.com/user-attachments/assets/c7a845f6-3923-4c44-8e28-8c468fa3f5fb" />
+
+
+
+**C. Variational Autoencoders (VAEs)**
+
+VAEs learn compressed representations of data and generate new similar data.
+
+**Working:**
+
+- Encoder compresses input data.
+- Latent Space stores important features.
+- Decoder reconstructs or generates new data.
+**Examples**: Image reconstruction and data generation.
+
+<img width="755" height="400" alt="image" src="https://github.com/user-attachments/assets/1380215a-f3a9-4ce8-ac5e-e53cf4c27624" />
+
+
+**D. Diffusion Models**
+
+Diffusion models generate images by learning to remove noise.
+
+**Working:**
+
+1. Noise is gradually added to training images.
+2. The model learns to remove noise.
+3. Random noise is converted into a clear image.
+**Examples**: AI image generation and image editing.
+
+<img width="775" height="458" alt="image" src="https://github.com/user-attachments/assets/6826ffc0-039c-4142-9ca3-0a6f31b3d81e" />
+
+
+**3. Comparison Table**
+
+<img width="771" height="622" alt="image" src="https://github.com/user-attachments/assets/39a7a235-5f37-407e-a765-c1d17dc860d9" />
+
+
+**4. Real-World Applications**
+
+- Transformers: Chatbots and language translation.
+- GANs: Face generation and image enhancement.
+- VAEs: Medical image reconstruction.
+- Diffusion Models: Digital art and image editing.
+- 
+**5. Conclusion**
+  
+Transformers, GANs, VAEs and Diffusion Models are important Generative AI architectures. They are used to generate text, images and other content in applications such as healthcare, education, engineering and entertainment.
+
+**GEMINI:**
+
+**1. Introduction**
+
+Generative AI is a type of Artificial Intelligence that creates new content such as text, images, audio, videos and computer code. It is used in education, healthcare, business, entertainment and scientific research.
+
+**2. Major Applications of Generative AI**
+
+1. Education: Creates notes, summaries, quizzes and personalized learning materials. Example: ChatGPT.
+2. Healthcare: Helps in medical report analysis, drug discovery and medical image generation.
+3. Business: Generates advertisements, customer-support replies, reports and business ideas.
+4. Software Development: Generates code, detects errors and helps in debugging. Example: GitHub Copilot.
+5. Entertainment: Creates music, animations, stories, videos and game characters.
+6. Scientific Research: Helps researchers analyse data, discover new materials and develop medicines.
+
+**3. How Generative AI Creates Content**
+
+<img width="922" height="615" alt="image" src="https://github.com/user-attachments/assets/01625e06-aed5-4b0e-9d6a-d8f5d154e8d0" />
+
+
+**4. Real-World and Engineering Examples**
+
+- Education: AI-based learning assistants.
+- Healthcare: AI-generated medical images for research.
+- Business: Automated customer service chatbots.
+- Software: Automatic code generation and debugging.
+- Electronics: Generating Arduino and embedded C programs.
+- Engineering: Designing circuit layouts and analysing simulation results.
+- 
+**5. Application Mind Map**
+
+<img width="830" height="485" alt="image" src="https://github.com/user-attachments/assets/7c500edf-242d-4dc2-a4f6-3a184d8132c9" />
+
+
+**6. Benefits**
+
+- Saves time and effort.
+- Improves creativity and productivity.
+- Provides personalized learning.
+- Automates repetitive tasks.
+- Supports innovation and research.
+- 
+**7. Limitations**
+  
+- May generate incorrect information.
+- Requires large amounts of training data.
+- Can produce biased results.
+- Needs powerful computing resources.
+- Human verification is required.
+  
+**8. Ethical Concerns**
+  
+-Privacy: Personal data may be misused.
+- Copyright: AI may generate content similar to existing works.
+- Bias: Unfair results may be produced.
+- Misinformation: Fake images and videos can be created.
+- Job impact: Some tasks may be replaced by automation.
+- 
+**9. Conclusion**
+  
+Generative AI is transforming many fields by creating text, images, audio, videos and code. It improves productivity, creativity and innovation. However, it must be used responsibly with proper human supervision.
 
 # Result
